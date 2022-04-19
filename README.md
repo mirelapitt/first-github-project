@@ -11,6 +11,5 @@
 - html & css
 
 ## Live Demo
-## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
