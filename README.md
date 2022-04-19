@@ -5,7 +5,7 @@
 > 
 ![screenshot](./app_screenshot.png)
 
-3 files were added, one was to include a header, one file to include one class and a test.md file were also included
+3 files were added, one was to include a header, one file to include one class and a test.md file were also included.
 ## Built With
 
 - html & css
